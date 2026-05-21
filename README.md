@@ -23,7 +23,3 @@ A MATLAB simulation of an analog communication system with two modulation scheme
 ```
 
 By default `Main.m` runs the synthetic two-tone demo. Uncomment the relevant block to run the audio-file demo end-to-end.
-
-## License
-
-MIT — see [LICENSE](LICENSE).
